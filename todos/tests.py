@@ -4,6 +4,3 @@ from django.test import TestCase
 
 class test_class():
     pass
-
-class dev_class():
-    pass
